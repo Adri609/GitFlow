@@ -6,3 +6,4 @@
 
 ### Release V1.0.0
 - Added login functionality
+- Minimum fix in README.md
